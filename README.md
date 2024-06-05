@@ -15,7 +15,7 @@
 
 ### Demo Screeshots
 
-![FitFam Desktop Demo](./assets/images/desktop.png "Desktop Demo")
+![FitFam Desktop Demo](./assets/images/Desktop.png "Desktop Demo")
 
 ### Prerequisites
 
