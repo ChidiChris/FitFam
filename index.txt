@@ -1,11 +1,11 @@
-Fitlife - Work Hard To Get Better Life
+FitFam - Cathedral FitFam
 
 
 
 #---------- HEADER ----------#
 
 <ion-icon name="barbell-sharp" aria-hidden="true"></ion-icon>
-Fitlife
+FitFam
 
 aria-label = close menu
 <ion-icon name="close-sharp" aria-hidden="true"></ion-icon>
@@ -55,7 +55,7 @@ Integer placerat vitae metus posuere tincidunt. Nullam suscipit ante ac aliquet 
 
 alt = Trainer
 
-Denis Robinson
+
 Our Coach
 
 Explore More
@@ -93,19 +93,19 @@ alt = Cardio & Strenght
 
 Cardio & Strenght
 
-70%
+
 
 alt = Power Yoga
 
 Power Yoga
 
-90%
+
 
 alt = The Fitness Pack
 
 The Fitness Pack
 
-60%
+
 
 
 
@@ -117,21 +117,6 @@ Latest Blog Feed
 
 alt = Going to the gym for the first time
 
-7 July 2022
-
-Going to the gym for the first time
-
-Praesent id ipsum pellentesque lectus dapibus condimentum curabitur eget risus quam. In hac habitasse platea dictumst.
-
-Read More
-
-alt = Parturient accumsan cacus pulvinar magna
-
-Parturient accumsan cacus pulvinar magna
-
-alt = Risus purus namien parturient accumsan cacus
-
-Risus purus namien parturient accumsan cacus
 
 
 
@@ -144,11 +129,7 @@ Etiam suscipit fringilla ullamcorper sed malesuada urna nec odio.
 
 alt = Clock
 
-Monday - Friday
-7:00Am - 10:00Pm
 
-Saturday - Sunday
-7:00Am - 2:00Pm
 
 Our Links
 
@@ -162,7 +143,7 @@ Contact Us
 
 <ion-icon name="location" aria-hidden="true"></ion-icon>
 
-1247/Plot No. 39, 15th Phase, Colony, Kukatpally, Hyderabad
+
 
 <ion-icon name="call" aria-hidden="true"></ion-icon>
 
@@ -171,8 +152,7 @@ Contact Us
 
 <ion-icon name="mail" aria-hidden="true"></ion-icon>
 
-info@fitlife.com
-services@fitlife.com
+
 
 Our Newsletter
 
